@@ -1,0 +1,4 @@
+Maze generator using Pygame and a randomized DFS
+
+MazeGen is the generator
+MazeSolve has a function for solving a maze
